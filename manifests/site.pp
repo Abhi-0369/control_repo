@@ -1,5 +1,5 @@
 node default{
-ile{'/root/README':
+file{'/root/README':
 ensure => file,
 }
 }
